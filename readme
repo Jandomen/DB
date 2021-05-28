@@ -1,0 +1,22 @@
+                                               Instrucciones:
+
+1.- Iniciar algún servidor de datos como mysql, o xampp
+
+
+
+2.- Arrancar el programa con el comando:
+
+                                             npm start
+
+
+
+
+3.- dirigirse en el navegador con la siguiente dirección:
+
+
+                                          http://localhost:5000/
+
+
+
+
+                                          Listo, registre y entre...
